@@ -1,0 +1,22 @@
+Set-up:
+- Use a complete project with sass
+- Set your page-background as page-bg.
+- Set the font of the postit to: Cedarville Cursive (google font)
+- Create an object constructor Postit()
+- Every instance creates a message on the screen with a custom text on it
+- Use an array with the different images to have a random background as the post-it image.
+- Every post-it has a random rotation between -15 and +15 degrees
+- Every post-it has the same size as the post-it image (the are all the same size)
+- Every post-it has a random position but cannot be offscreen
+
+
+Extension:
+- Make sure that you can remove the post-it when clicking on a garbage-icon in the topright corner
+- Create a for-loop that creates 5 post-it's on the screen that use an array containing 20 funny quotes.
+- Show them with a delay of 666ms
+- make sure you can drag each one of them to change its position on the screen (use greensock draggable)
+
+HAVE FUN !!!
+
+
+
